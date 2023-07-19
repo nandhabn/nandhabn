@@ -1,5 +1,5 @@
 # Hi there 👋 Nandha here!!!
-These are my works. just fork and start code
+These are my works. just fork and start coding
 ### Happy coding ✨ 
 <!--
 **nandhabn/nandhabn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
